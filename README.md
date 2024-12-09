@@ -28,4 +28,6 @@ A fun and interactive virtual dice simulator built with HTML, CSS, and JavaScrip
 - index.js: The JavaScript file that contains the logic for rolling the dice, updating the dice face, and maintaining the roll history.
 
 
-## Live Demo
+## Live Demo::
+
+Check out the live demo here: [Virtual Dice Simulator](https://virtual-dice-simulator.vercel.app/)

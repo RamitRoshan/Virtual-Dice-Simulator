@@ -26,3 +26,6 @@ A fun and interactive virtual dice simulator built with HTML, CSS, and JavaScrip
 - index.html: The main HTML file containing the structure of the virtual dice simulator.
 - style.css: The CSS file that styles the page, adds the dice animation, and customizes the layout.
 - index.js: The JavaScript file that contains the logic for rolling the dice, updating the dice face, and maintaining the roll history.
+
+
+## Live Demo
